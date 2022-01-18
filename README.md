@@ -13,3 +13,8 @@ python dice.py
 <li>Move to the location where the EXE file is located</li>
 <li>Double-click on it and extract the folder which is going the contain the final .exe file</li>
 <li>Move into the extracted folder and run the .exe by double clicking on it or using <code>./dice</code></li>
+
+### Note: Install the required python package using the following command:
+```
+pip install -r requirements.txt
+```
